@@ -1,0 +1,30 @@
+/*  
+Font: Roboto (download and install if I don't have it
+Header, hero section, and footer BACKGROUND COLOR: #1F2937
+Logo text: 
+    Font size: 24px 
+    Color: #F9FAF8
+Hero section main text (this website is awesome)
+    Font size: 48px
+    Color: #F9FAF8
+Hero secondary text (this website has some subtext) and header links
+    Font size: 18px
+    color: #E5E7EB
+Button/call to action background color: #3882F6
+Information heading
+    Font size: 36px
+    Color: #1F2937
+    Weight: 900
+Quote:
+    Background color: #E5E7EB
+    Font size: 36px
+    Color: #1F2937
+    Weight: 300
+    Font Style: italic
+*/
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
