@@ -23,7 +23,7 @@ Quote:
     Font Style: italic
 */
 
-* {
+body {
 	border: 2px solid red;
 	font-family:
 		system-ui,
@@ -37,4 +37,71 @@ Quote:
 		"Open Sans",
 		"Helvetica Neue",
 		sans-serif;
+	margin: 0;
+	cursor: default; /* Changed this so that navigating the page wouldn't have the I cursor */
+}
+
+.header {
+	display: flex;
+	justify-content: space-around;
+	background-color: #1f2937;
+}
+
+.header p {
+	font-size: 24px;
+	color: #f9faf8;
+	margin: 0;
+	padding: 6px 0;
+}
+
+.nav-bar ul {
+	display: flex;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.nav-bar a {
+	color: #a4a4a6;
+	text-decoration: none;
+	font-size: 18px;
+	padding: 0 10px;
+}
+
+.main {
+	display: flex;
+	justify-content: center;
+	background-color: #1f2937;
+}
+
+.main .container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+	padding: 0;
+	margin: 0;
+	width: 450px;
+}
+
+.main h1 {
+	font-size: 48px;
+	color: #f9faf8;
+	margin: 4px;
+	padding: 0;
+}
+
+.main p {
+	font-size: 18px;
+	color: #a4a4a6;
+	margin: 4px;
+}
+
+button {
+	background-color: #3882f6;
+	color: #f9faf8;
+	padding: 5px 20px;
+	border-radius: 8px;
+	cursor: pointer;
+	margin: 8px;
 }
