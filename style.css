@@ -100,6 +100,8 @@ body {
 button {
 	background-color: #3882f6;
 	color: #f9faf8;
+	width: 100px;
+	height: 30px;
 	padding: 5px 20px;
 	border-radius: 8px;
 	cursor: pointer;
@@ -167,5 +169,21 @@ figure figcaption {
 	justify-content: flex-end;
 	font-size: 24px;
 	font-weight: 700;
+	margin: 0;
+}
+
+.call .container {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	background-color: #2f3d51;
+	border-radius: 8px;
+	box-shadow: 0 0 10px 5px #888888;
+	margin: 80px 15%;
+	padding: 30px;
+	color: #f9faf8;
+}
+
+.call .content * {
 	margin: 0;
 }

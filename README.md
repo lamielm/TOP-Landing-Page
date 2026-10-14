@@ -8,11 +8,12 @@
 
 ## Next Step
 
-- Work on the "call to action" section
+- Finish with the footer
 
 ## Known Issues
 
-- The main sections of the page aren't going to the bottom. I'll have to figure out what's supposed to flex/stretch that space.
+- RESOLVED? Content took up more of the page than what filled it...
+  The main sections of the page aren't going to the bottom. I'll have to figure out what's supposed to flex/stretch that space.
 
 ## Complete Portions
 
@@ -20,3 +21,4 @@
 - Main
 - Info
 - Quote
+- Call to Action
