@@ -8,7 +8,7 @@
 
 ## Next Step
 
-- Finish with the footer
+- N/A
 
 ## Known Issues
 
@@ -22,3 +22,8 @@
 - Info
 - Quote
 - Call to Action
+- Footer
+
+## Changes since completed
+
+- Added photo randomizer for the image spots
