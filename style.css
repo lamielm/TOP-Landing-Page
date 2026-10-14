@@ -108,19 +108,27 @@ button {
 
 .info {
 	display: flex;
-	align-items: center;
 	flex-direction: column;
 	padding: 10px 0 40px;
+}
+
+.info h2 {
+	display: flex;
+	justify-content: center;
+}
+
+.info .container {
+	display: flex;
+	justify-content: center;
+	gap: 0 3%;
 }
 
 figure {
 	display: flex;
 	flex-direction: column;
-	flex-wrap: nowrap;
-	align-items: center;
+	flex: 0;
 	margin: 0;
-	width: 200px;
-	margin: 0 20px;
+	max-width: 250px;
 }
 
 figure img {
@@ -129,14 +137,8 @@ figure img {
 	border-radius: 8px;
 }
 
-figcaption {
+figure figcaption {
 	text-align: center;
 	font-size: 18px;
 	color: #575e67;
-	width: 132px;
-}
-
-.info .container {
-	display: flex;
-	justify-content: space-evenly;
 }
