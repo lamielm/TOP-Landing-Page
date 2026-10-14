@@ -8,7 +8,7 @@
 
 ## Next Step
 
-- Work on the quote section of page.
+- Work on the "call to action" section
 
 ## Known Issues
 
@@ -19,3 +19,4 @@
 - Header
 - Main
 - Info
+- Quote
