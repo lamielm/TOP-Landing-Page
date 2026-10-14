@@ -2,13 +2,13 @@
 
 -- The goal of this project is to build a landing page based on the design example given by The Odin Project.
 
-## Current Project Steps
+## Current Project Step
 
 - N/A
 
-## Next Steps
+## Next Step
 
-- Work on the "Info" section of the page.
+- Work on the quote section of page.
 
 ## Known Issues
 
@@ -17,3 +17,5 @@
 ## Complete Portions
 
 - Header
+- Main
+- Info
